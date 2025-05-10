@@ -47,9 +47,5 @@ User Experience: Filter-based exploration allows different stakeholders (manager
 
 Growth Planning: Spot high-performing markets or underserved areas ideal for expansion.
 
-To complete this section, you can take high-quality screenshots of your dashboard views and paste them alongside these categories:
-
-Overview Page
-
-City-wise Analysis
+To complete this section, you can take high-quality screenshots of your dashboard views and paste them alongside these categories: https://github.com/Shefali8859/Zomato-Insights-Dashboard/blob/main/Screenshot%202025-05-10%20092922.png
 
